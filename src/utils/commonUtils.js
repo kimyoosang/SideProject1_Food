@@ -1,8 +1,10 @@
+import Intro from "../Pages/Intro/Intro";
+
 export const TOTAL_SCREENS = [
-  // {
-  //   screen_name: ,
-  //   component: ,
-  // },
+  {
+    screen_name: "Intro",
+    component: Intro,
+  },
 ];
 
 export const GET_SCREEN_INDEX = (screen_name) => {
