@@ -1,10 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Nav.css";
 
 function Nav() {
+  const [toggle, setToggle] = useState(false);
+
   return (
     <>
-      <nav className="navbar">
+      <nav className={toggle ? "navbar target change" : "navbar target"}>
         <a href="" className="navbar-link">
           <i className="fas fa-home"></i>
           <span>Home</span>
@@ -26,7 +28,10 @@ function Nav() {
           <span>Contact</span>
         </a>
       </nav>
-      <div className="menu"></div>
+      <div
+        className={toggle ? "menu target change" : "menu target"}
+        onClick={() => setToggle(!toggle)}
+      ></div>
     </>
   );
 }
