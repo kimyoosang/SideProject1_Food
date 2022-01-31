@@ -1,6 +1,7 @@
 import Intro from "../Pages/Intro/Intro";
 import Popular from "../Pages/Popular/Popular";
 import Gallery from "../Pages/Gallery/Gallery";
+import Footer from "../Pages/Footer/Footer";
 
 export const TOTAL_SCREENS = [
   {
@@ -14,6 +15,10 @@ export const TOTAL_SCREENS = [
   {
     screen_name: "Gallery",
     component: Gallery,
+  },
+  {
+    screen_name: "Footer",
+    component: Footer,
   },
 ];
 
