@@ -63,3 +63,19 @@
   width: 100%;
   text-align: center;
 }
+@media screen and (max-width: 1000px) {
+  .section-4 {
+    height: 30rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  .section-4 {
+    height: 40rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .section-4-text {
+    margin-bottom: 8rem;
+  }
+}

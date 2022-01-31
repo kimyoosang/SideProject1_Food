@@ -29,3 +29,21 @@
   transform: translate(-50%, -50%) scale(1);
   transition: transform 0.3s 0.3s;
 }
+@media screen and (max-width: 1000px) {
+  .section-heading {
+    font-size: 9rem;
+    margin: 0 5rem;
+  }
+  .section-1-icons i {
+    font-size: 25rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  .section-heading {
+    font-size: 7rem;
+    margin: 0 10rem;
+  }
+  .section-1-icons i {
+    font-size: 20rem;
+  }
+}
