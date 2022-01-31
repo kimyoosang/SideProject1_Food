@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SideProject1_Food/static/css/main.e2941d38.css",
-    "main.js": "/SideProject1_Food/static/js/main.18a9db2a.js",
+    "main.css": "/SideProject1_Food/static/css/main.83a846e2.css",
+    "main.js": "/SideProject1_Food/static/js/main.3a48706b.js",
     "static/media/Poppins-Thin.ttf": "/SideProject1_Food/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/SideProject1_Food/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/SideProject1_Food/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
@@ -19,11 +19,11 @@
     "static/media/gallery-img-5.jpg": "/SideProject1_Food/static/media/gallery-img-5.c538a6adbad8f63fe191.jpg",
     "static/media/gallery-img-2.jpg": "/SideProject1_Food/static/media/gallery-img-2.a667d860e90bba2bb814.jpg",
     "index.html": "/SideProject1_Food/index.html",
-    "main.e2941d38.css.map": "/SideProject1_Food/static/css/main.e2941d38.css.map",
-    "main.18a9db2a.js.map": "/SideProject1_Food/static/js/main.18a9db2a.js.map"
+    "main.83a846e2.css.map": "/SideProject1_Food/static/css/main.83a846e2.css.map",
+    "main.3a48706b.js.map": "/SideProject1_Food/static/js/main.3a48706b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2941d38.css",
-    "static/js/main.18a9db2a.js"
+    "static/css/main.83a846e2.css",
+    "static/js/main.3a48706b.js"
   ]
 }
