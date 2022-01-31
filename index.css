@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-weight: 400;
+  font-family: "Poppins Regular";
+}
+html {
+  /* 1rem을 10px로 하기위해 */
+  font-size: 62.5%;
+}
