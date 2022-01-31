@@ -108,3 +108,14 @@
   visibility: visible;
   transition: opacity 1s 1s;
 }
+@media screen and (max-width: 1400px) {
+  .gallery-link {
+    width: 40rem;
+    height: 25rem;
+    margin: 5rem;
+  }
+  .food-img {
+    width: 100%;
+    height: 100%;
+  }
+}

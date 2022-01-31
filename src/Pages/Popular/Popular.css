@@ -80,3 +80,20 @@
   cursor: pointer;
   box-shadow: -0.2rem -0.2rem 0.2rem #000;
 }
+@media screen and (max-width: 1400px) {
+  .section-2 {
+    height: auto;
+    padding: 10rem 0 12rem 0;
+  }
+  .cards-container {
+    margin-top: 10rem;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .cards-container {
+    flex-wrap: wrap;
+  }
+  .card {
+    margin: 5rem;
+  }
+}

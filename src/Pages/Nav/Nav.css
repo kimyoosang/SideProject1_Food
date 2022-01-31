@@ -69,6 +69,7 @@
   border-radius: 30rem 30rem 15rem 15rem;
   box-shadow: 0.1rem 0.1rem 0.1rem #000, 0.1rem 0.1rem 0.1rem #000;
   cursor: pointer;
+  z-index: 100;
   transition: top 0.4s 0.2s;
 }
 
@@ -86,4 +87,25 @@
   top: -15rem;
   left: calc(50% - 0.15rem);
   box-shadow: 0.1rem 0 0.1rem #000;
+}
+@media screen and (max-width: 900px) {
+  .navbar-link {
+    margin: 2rem;
+  }
+  .navbar-link i {
+    font-size: 4rem;
+  }
+  .navbar-link span {
+    font-size: 2rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  .menu {
+    left: 2rem;
+  }
+}
+@media screen and (max-width: 550px) {
+  .navbar-link {
+    margin: 0 0.7rem;
+  }
 }
