@@ -1,9 +1,14 @@
 import Intro from "../Pages/Intro/Intro";
+import Popular from "../Pages/Popular/Popular";
 
 export const TOTAL_SCREENS = [
   {
     screen_name: "Intro",
     component: Intro,
+  },
+  {
+    screen_name: "Popular",
+    component: Popular,
   },
 ];
 
