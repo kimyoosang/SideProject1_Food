@@ -2,8 +2,13 @@ import Intro from "../Pages/Intro/Intro";
 import Popular from "../Pages/Popular/Popular";
 import Gallery from "../Pages/Gallery/Gallery";
 import Footer from "../Pages/Footer/Footer";
+import Nav from "../Pages/Nav/Nav";
 
 export const TOTAL_SCREENS = [
+  {
+    screen_name: "Nav",
+    component: Nav,
+  },
   {
     screen_name: "Intro",
     component: Intro,
