@@ -20,7 +20,9 @@ function Footer() {
           <i className="fas fa-arrow-right"></i>
         </button>
       </form>
-      <p className="copyright">Code And Create &copy;All Right Reserved</p>
+      <p className="copyright">
+        Code And Create 김유상 &copy;All Right Reserved
+      </p>
     </section>
   );
 }
