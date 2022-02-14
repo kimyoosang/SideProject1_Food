@@ -3,7 +3,7 @@
 
 ### Section 1
 ![section1](https://user-images.githubusercontent.com/71270310/153841223-ffdb2b51-27d5-4ae9-8fee-132a5cd9a23f.gif)
-\<br></br>
+<br></br>
 
 ### Section 2
 ![section2](https://user-images.githubusercontent.com/71270310/153843916-eb79bec5-f6ee-4e18-b0fb-7665b373bcff.gif)
